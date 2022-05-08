@@ -79,20 +79,7 @@ Timezone: Europe/Vienna (CEST)
 
 <br />
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=YuriDevAT&theme=radical&show_icons=true" width="410"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YuriDevAT&layout=compact&theme=radical" width="400" />
+<img src="https://github-readme-stats.vercel.app/api?username=daimsyed&theme=radical&show_icons=true" width="410"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=daimsyed&layout=compact&theme=radical" width="400" />
 </p>
 
----
-
-📕 **Latest Blog Posts**
-
-<!-- DEV:START -->
-- [Communication for devs](https://dev.to/yuridevat/communication-for-devs-31bm)
-- [Git Commands I&#39;m using in my current project &lpar;which make me feel like a Pro 🤓&rpar;](https://dev.to/yuridevat/git-commands-im-using-in-my-current-project-which-make-me-feel-like-a-pro--42ig)
-- [What&#39;s a Git workflow](https://dev.to/yuridevat/whats-a-git-workflow-2ncm)
-- [How I want to become a better programmer in 2022](https://dev.to/yuridevat/how-i-want-to-become-a-better-programmer-in-2022-5aon)
-- [How I decided which language I should learn](https://dev.to/yuridevat/how-i-decided-which-language-i-should-learn-2lk4)
-<!-- DEV:END -->
-
-... [READ MORE](https://dev.to/yuridevat)
