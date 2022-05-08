@@ -1,5 +1,5 @@
 <p>
-  <h1 align="center"><b>Hi there, I'm Husnain Syed <img src="https://docs.google.com/uc?export=download&id=166Ecq6uBl61U14OUlkHOHIBv2ArKoumJ" alt="" width="30"></h1>
+  <h1 align="center"><b>Hi there, I'm Husnain Syed <img src="https://www.flaticon.com/free-animated-icons/stop" alt="" width="30"></h1>
 </p>
 <p align="center">
 <a href="https://daimsyed.surge.sh/"><img src="https://img.shields.io/badge/PORTFOLIO-CC6699?style=for-the-badge&logoColor=white alt="Portfolio" /></a>&nbsp;
