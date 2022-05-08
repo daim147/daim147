@@ -34,7 +34,7 @@
 
 <h2 align="center">About me 😇</h2>
 <p align="center">
-Hy, I have completed more than 150+🥳 fun projects. Kinds of projects there are HTML and CSS projects and some with a lot of animations, complex JavaScript Projects, React Projects, React Native, obviously TypeScript complex and design pattern projects, Amazing Backend Projects
+Hy, I have completed more than 150+🥳 fun projects. Kinds of projects there are HTML and CSS projects and some with a lot of animations, complex JavaScript Projects, Cool React Projects, React Native, obviously TypeScript design pattern projects, Amazing Backend Projects
 </p>
 <br />
 <p>:muscle: I am currently ... helping others to get into tech too by creating content using Twitter.</p>
