@@ -8,7 +8,7 @@
 <a href="https://www.facebook.com/husnain.syed.58726"><img src="https://img.shields.io/badge/Facebook-129FF8?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebbok" /></a>&nbsp;
 </p>
 <br />
-
+<!-- 
 <h2 align="center">My favorite projects 💻</h2>
 <br />
 
@@ -29,7 +29,7 @@
 <a href="https://github.com/YuriDevAT/instagram-clone">
   <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=YuriDevAT&repo=instagram-clone&theme=tokyonight" />
 </a>
-</p>
+</p> -->
 
 <br />
 
