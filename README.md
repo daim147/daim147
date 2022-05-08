@@ -9,11 +9,6 @@
 </p>
 <br />
 
-<p align="center">Enthusiastic selftaught frontend developer since 2020 using ReactJS. a11y minded. Scrum & Agile inspired.</p>
-<p>I am a mentor by 💙 helping people who are in the same situation like I was not long ago to get into tech too. Therefore, I am creating a <a href="https://yuridevat.mailchimpsites.com/">learning website</a> for totally beginners, portfolio creators and job-seekers where I am sharing my tips and suggestions.</p>
-<p>From time to time I am contributing to open source to improve projects web accessibility.</p>
-<br />
-
 <h2 align="center">My favorite projects 💻</h2>
 <br />
 
@@ -21,10 +16,10 @@
   <img width="400" src="https://github.com/YuriDevAT/sos-animals/blob/main/public/thumbnail-sos.png" />
   <img width="400" src="https://github.com/the-collab-lab/tcl-19-smart-shopping-list/blob/main/public/Thumbnail.png" />
  <a href="https://github.com/YuriDevAT/sos-animals">
-  <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=YuriDevAT&repo=sos-animals&theme=tokyonight" />
+  <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=YuriDevAT&repo=Daim-book&theme=tokyonight" />
 </a>
   <a href="https://github.com/YuriDevAT/tcl-19-smart-shopping-list">
-  <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=YuriDevAT&repo=tcl-19-smart-shopping-list&theme=tokyonight" />
+  <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=YuriDevAT&repo=&theme=tokyonight" />
 </a>
   <img width="400" src="https://github.com/YuriDevAT/nikki-my-diary/blob/main/public/thumbnail-nikki.png" />
   <img width="400" src="https://github.com/YuriDevAT/instagram-clone/blob/main/thumbnail-instagram.png" />
@@ -43,14 +38,12 @@
 Timezone: Europe/Vienna (CEST)
 </p>
 <br />
-<p>In my latest project, I created an <a href="https://github.com/YuriDevAT/sos-animals">SOS Animal App</a> which will help abandoned animals get help from Animal welfare organizations in Romania when people reporting them via this app. I created this project to participate in my first hackathon - Clerk x Hashnode Hackathon July 2021. 🏆 This project was one of the Runner Up Winners. 🥳</p>
 
 <p>:muscle: I am currently ... helping others to get into tech too by creating content using Twitter.</p>
 <p>:eyes: I’m currently learning ... everything I need to filling my gaps to become a better programmer.</p>
 <p>:raising_hand: I’m looking to collaborate with ... Open Source.</p>
 <p>:speech_balloon: Ask me about anything related to... my content. I am happy to help.</p>
-<p>:ghost: Fun fact: ... I studied Musicology and Japanese studies, but I am now a selftaught developer working in Vienna. </p>
-
+  
 <br />
 <br />
 <p>
