@@ -55,7 +55,7 @@ Hy, I have completed more than 150+🥳 fun projects. Kinds of projects there ar
 <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="react" width="50" height="50"/> </a>
 <a href="https://redux.js.org/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/redux.svg" alt="redux" width="50" height="50"/> </a>
 <a href="https://nodejs.org/en/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/nodejs-1.svg" alt="node" width="50" height="50"/> </a>
-<a href="https://expressjs.com/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/express-109.svg" alt="express" width="50" height="50"/> </a>
+<a href="https://expressjs.com/" style="background:white" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/express-109.svg" alt="express" width="50" height="50"/> </a>
   <a href="https://www.mongodb.com/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/mongodb-icon-1.svg" alt="mongodb" width="50" height="50"/> </a>
    <a href="https://mongoosejs.com/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/mongoose-1.svg" alt="mongoose" width="50" height="50"/> </a>
     <a href="https://greensock.com/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/gsap-greensock.svg" alt="gsap" width="50" height="50"/> </a>
