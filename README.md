@@ -37,14 +37,14 @@
 Hy, I have completed more than 150+🥳 fun projects. Kinds of projects there are HTML and CSS projects and some with a lot of animations, complex JavaScript Projects, Cool React Projects, React Native, obviously TypeScript design pattern projects, Amazing Backend Projects
 </p>
 <br />
-<p>:muscle: I am currently ... helping others to get into tech too by creating content using Twitter.</p>
-<p>:eyes: I’m currently learning ... everything I need to filling my gaps to become a better programmer.</p>
+<p>:muscle: I am currently ... helping others to get into tech</p>
+<p>:eyes: I’m currently learning new technologies to remain updated in stacks</p>
 <p>:raising_hand: I’m looking to collaborate with ... Open Source.</p>
 <p>:speech_balloon: Ask me about anything related to... my content. I am happy to help.</p>
 <br />
 <br />
 <p>
-<h3 align="center"> Languages I'm in Love❤️❤️</h3>
+<h3 align="center"> Languages and Libraries I'm in Love❤</h3>
 </p>
 <br />
 <p align="center">
