@@ -36,7 +36,7 @@ Hy, I have completed more than 150+🥳 fun projects. Kinds of projects there ar
 </p>
 <br />
 <p>:muscle: I am currently ... helping others to get into tech</p>
-<p>:eyes: I’m currently learning new technologies to remain updated in stacks</p>
+<p>:eyes: I’m currently learning new technologies to get more better</p>
 <p>:raising_hand: I’m looking to collaborate with ... Open Source.</p>
 <p>:speech_balloon: Ask me about anything related to... my content. I am happy to help.</p>
 <br />
