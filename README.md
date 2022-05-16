@@ -15,7 +15,7 @@
   <img width="400" src="https://github.com/YuriDevAT/sos-animals/blob/main/public/thumbnail-sos.png" />
   <img width="400" src="https://github.com/the-collab-lab/tcl-19-smart-shopping-list/blob/main/public/Thumbnail.png" />
  <a href="https://github.com/DaimSyed/Daim-book">
-  <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=daimsyed&repo=Daim-book&theme=tokyonight" />
+  <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=daimsyed&repo=Daim-book&theme=tokyonight" /> 
 </a>
   <a href="https://github.com/DaimSyed/netflix-clone">
   <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=daimsyed&repo=netflix-clone&theme=tokyonight" />
