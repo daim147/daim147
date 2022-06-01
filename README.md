@@ -32,17 +32,17 @@
 
 <h2 align="center">About me 😇</h2>
 <p align="center">
-Hy, I have completed more than 150+🥳 fun projects. Kinds of projects there are HTML and CSS projects and some with a lot of animations, complex JavaScript Projects, Cool React Projects, React Native, obviously TypeScript design pattern projects, Amazing Backend Projects
+Hi, I have completed more than 100+🥳 fun projects all of which can be seen here on Github. You'll find a wide variety of projects that include HTML, CSS with lots of animations, complex JavaScript Projects, Cool React Projects, some React Native work, TypeScript design pattern projects and some Backend stuff as well.
 </p>
 <br />
-<p>:muscle: I am currently ... helping others to get into tech</p>
-<p>:eyes: I’m currently learning new technologies to get more better</p>
-<p>:raising_hand: I’m looking to collaborate with ... Open Source.</p>
-<p>:speech_balloon: Ask me about anything related to... my content. I am happy to help.</p>
+<p>:muscle: Currently I am helping others to get into tech</p>
+<p>:eyes: Learning new technologies to get better in development of more complex projects</p>
+<p>:raising_hand: I’m looking for a good Open Source project for my contribution.</p>
+<p>:speech_balloon: Ask me about anything related to... my tech stack. I'll be more than happy to help.</p>
 <br />
 <br />
 <p>
-<h3 align="center"> Languages and Libraries I'm in Love❤</h3>
+<h3 align="center"> Languages and Libraries I'm in Love with❤</h3>
 </p>
 <br />
 <p align="center">
@@ -62,7 +62,7 @@ Hy, I have completed more than 150+🥳 fun projects. Kinds of projects there ar
    </p>
 <br />
 <p align="center">
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people.</b> So if you want to say <b>hi, I'll be happy to salute back and provide any assisstance you may need if it's somehow relevant!</b> 😊</em>
 </p>
 <br />
 
