@@ -32,7 +32,7 @@
 
 <h2 align="center">About me 😇</h2>
 <p align="center">
-Hi, I have completed more than 100+🥳 fun projects all of which can be seen here on Github. You'll find a wide variety of projects that include HTML, CSS with lots of animations, complex JavaScript Projects, Cool React Projects, some React Native work, TypeScript design pattern projects and some Backend stuff as well.
+Hi, I have completed more than 100+🥳 fun projects all of which can be seen here on Github. You'll find a wide variety of projects that include HTML, CSS with lots of animations, complex JavaScript Projects, Cool React Projects, some React Native work, TypeScript design pattern projects and Backend stuff as well actually working on my own express library written in typeScript for rapidly building APIs.
 </p>
 <br />
 <p>:muscle: Currently I am helping others to get into tech</p>
