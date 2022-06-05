@@ -36,7 +36,7 @@ Hi, I have completed more than 100+🥳 fun projects all of which can be seen he
 </p>
 <br />
 <p>:muscle: Currently I am helping others to get into tech</p>
-<p>:eyes: Learning new technologies to get better in development of more complex projects</p>
+<p>:eyes: Learning new technologies to get best in development.</p>
 <p>:raising_hand: I’m looking for a good Open Source project for my contribution.</p>
 <p>:speech_balloon: Ask me about anything related to... my tech stack. I'll be more than happy to help.</p>
 <br />
