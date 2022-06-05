@@ -70,7 +70,7 @@ Hi, I have completed more than 100+🥳 fun projects all of which can be seen he
 
 <br />
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=daimsyed&theme=radical&show_icons=true" width="410"/>
+<img src="https://github-readme-stats.vercel.app/api?username=daimsyed&theme=radical&show_icons=true&include_all_commits=true" width="410"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=daimsyed&layout=compact&theme=radical" width="400" />
 </p>
 
